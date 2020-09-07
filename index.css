@@ -16,7 +16,6 @@ body {
 
 .header {
   background: url(homework.jpeg) no-repeat center center;
-  background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -27,6 +26,12 @@ body {
 .header .container {
   position: relative;
   top: 200px;
+}
+
+@media (max-width: 960px) {
+.header .container img {
+  width: 75%
+}
 }
 
 .header h1 {
@@ -323,4 +328,23 @@ textarea
   .main img {
     width: 100%;
   }
-}
+
+  .btnB {
+    color: #fff;
+    background: #000;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: background .5s;
+  }
+
+  .btnB:hover {
+    background : #117bff;
+    cursor: pointer;
+    transition: background .5s;
+  }
+
+  @media (max-width: 960px) {
+    .main .container img {
+      width: 35%;
+    }
+  }
