@@ -176,6 +176,20 @@ th, td {
   opacity: 1;
 }
 
+.button-primary {
+  color: #fff;
+  background: #000;
+  padding: 10px 40px;
+  text-decoration: none;
+  transition: background .5s;
+}
+
+.button-primary:hover {
+  background : #117bff;
+  cursor: pointer;
+  transition: background .5s;
+}
+
 {
     .form-container {
       background: #ffffff;
