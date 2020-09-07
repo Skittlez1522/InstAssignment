@@ -190,16 +190,6 @@ th, td {
   transition: background .5s;
 }
 
-{
-    .form-container {
-      background: #ffffff;
-      max-width: 520px;
-      margin: auto;
-      float: left;
-    }
-
-}
-
 .contact
 {
   text-align: left;
