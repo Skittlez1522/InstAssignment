@@ -43,16 +43,22 @@ body {
   text-transform: uppercase;
 }
 
-@media (max-width: 960px) {
-  .main .container iframe {
-    width: 50%;
-  }
+table {
+width: 100%;}
+
+@media screen and (max-width: 800px) {
+  table .img {
+  width: 90%;}
 }
 
-@media (min-width:850px) {
-  .header h1 {
-    font-size: 120px;
-  }
+@media screen and (max-width: 1000px) {
+  table .img {
+  width: 80%;}
+}
+
+@media screen and (max-width: 600px) {
+  table .img {
+  width: 70%;}
 }
 
 .header p {
@@ -293,6 +299,14 @@ textarea
 .btnB:hover {
   background : #117bff;
   cursor: pointer;
+  transition: background .5s;
+}
+
+.btnC {
+  color: #fff;
+  background: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
   transition: background .5s;
 }
 
