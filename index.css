@@ -29,7 +29,7 @@ body {
 }
 
 @media (max-width: 960px) {
-.header .container img {
+.header .container img iframe {
   width: 75%
 }
 }
@@ -43,6 +43,11 @@ body {
   text-transform: uppercase;
 }
 
+@media (max-width: 960px) {
+  .main .container iframe {
+    width: 50%;
+  }
+}
 
 @media (min-width:850px) {
   .header h1 {
