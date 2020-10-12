@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>
+    <inlinegraphic fileref="#InstAssignment.png" width="0.7862inch" depth="1.6665inch"/>
+  </para>
+  <para>Helping you with your schoolwork</para>
+  <para><olink targetdocent="index.html">Home</olink> </para>
+  <orderedlist>
+    <listitem>
+      <para><anchor id="horizontal-list"/><olink targetdocent="assignmentChecking.html">Assignment Checking</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="essay.html">Essay Writing</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="locations.html">Locations</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="contact.html">Contact</olink> </para>
+    </listitem>
+    <listitem>
+      <para><olink targetdocent="apply.html">Apply</olink> </para>
+    </listitem>
+  </orderedlist>
+  <para>Pages </para>
+  <para><olink targetdocent="assignmentChecking.html">Assignment Checking</olink> <olink targetdocent="essay.html">Essay Writing</olink> <olink targetdocent="location.html">Locations</olink> <olink targetdocent="contact.html">Contact</olink> <olink targetdocent="apply.html">Apply</olink> </para>
+  <sect1>
+    <title>Application</title>
+    <para>If you are looking to apply here at InstAssignment, we have to ask you for a little bit of personal information. This is all done on the form below. Once you fill that out, we will get in contact with you to do a simple interview and we will go forward from there. We are looking forward to seeing you on our team. See you soon!</para>
+    <para> </para>
+    <para><anchor id="footer"/>© InstAssignment 2020</para>
+    <para><inlinegraphic fileref="#Snapchat_App_Icon.png" width="0.3335inch" depth="0.3335inch"/> <inlinegraphic fileref="#Instagram.png" width="0.3335inch" depth="0.3335inch"/> <inlinegraphic fileref="#f_logo_RGB-Blue_512.png" width="0.3335inch" depth="0.3335inch"/> <inlinegraphic fileref="#Twitter_Social_Icon_Circle_Color.png" width="0.3335inch" depth="0.3335inch"/> </para>
+  </sect1>
+</article>
