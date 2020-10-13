@@ -29,7 +29,7 @@ body {
 }
 
 @media (max-width: 960px) {
-.header .container img iframe {
+.header .container img {
   width: 75%
 }
 }
